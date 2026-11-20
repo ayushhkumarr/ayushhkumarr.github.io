@@ -23,6 +23,11 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,500&family=Geist:wght@400;500;600&display=swap"
           rel="stylesheet"
         />
+        <script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="2094ce35-8d11-4d68-9f2f-bfca5ae515f8"
+        ></script>
       </head>
       <body className="bg-[#0B0B0B] text-[#DEDEDB] font-geist antialiased selection:bg-[#222222] selection:text-[#EDEDEA]">
         {children}
